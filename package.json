@@ -1,0 +1,27 @@
+{
+  "name": "km-range-slider",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "android",
+    "ios",
+    "custom",
+    "range",
+    "slider",
+    "seekbar"
+  ],
+  "author": {
+    "name": "Kirit Modi",
+    "email": "kirit.it016@gmail.com"
+  },
+  "license": "ISC"
+}
